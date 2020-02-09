@@ -25,4 +25,4 @@ end
   
 fido = Dog.new
 fido.name = "Fido"
-fido.breed = "poodle"
+fido.breed = "Beagle"
