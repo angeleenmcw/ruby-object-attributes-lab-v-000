@@ -7,6 +7,7 @@ class Person
   def job 
     @job 
   end
+end
   
   firefighter = Person.new 
   firefighter.job = "firefighter"
