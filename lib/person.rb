@@ -22,4 +22,5 @@ class Person
 end
   
   beyonce = Person.new 
-  firefighter.job = "firefighter"
+  beyonce.name = "beyonce"
+  beyonce.job = "firefighter"
